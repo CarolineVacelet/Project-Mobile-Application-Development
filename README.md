@@ -1,6 +1,8 @@
 # Project-Mobile-Application-Development
 Application to see your bank accounts
 
+For a more complete README with the screenshots, I put a pdf file named READMEpdf.
+
 Personnal interpretations : 
 For this exercise, I considered that the client has the same id than his account.
 I also considered that the application will run in offline mode if the user is not connected to any network
